@@ -19,12 +19,3 @@ Percentage of population in Urban Areas: 38.03%
 - Literacy Rate as per 2011
 average literacy rate in India: 79.14%
 
-Kerala has highest literacy rate of 93.91% with Male:96.02% and Female:91.98%.
-- Total Population
-Between age 15-64: 63.40%
-
-Between age 0-14: 30.73%
-
-Between age 64 & Above 5.466%
-
-- India has total 29 Spoken languages.Native Hindi speaker were 41% as per 2001 Census.
