@@ -17,3 +17,7 @@ Percentage of Population in rural areas: 61.28%
 
 Percentage of population in Urban Areas: 38.03%
 - Literacy Rate as per 2011
+average literacy rate in India: 79.14%
+
+Kerala has highest literacy rate of 93.91% with Male:96.02% and Female:91.98%.
+- Total Population
